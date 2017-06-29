@@ -14,6 +14,6 @@ services:
       - dynamodb
 
   dynamodb:
-    image: azza-bazoo/dynamodb-local
+    image: dabosq/dynamodb-local
 
 ```
